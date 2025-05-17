@@ -9,6 +9,7 @@ body {
   background-image: url(../istock.jpg);
   background-repeat: no-repeat;
   background-size: cover;
+  background-attachment: fixed;
 }
 
 .head {
@@ -17,7 +18,8 @@ body {
   align-items: center;
   padding: 10px;
   width: 100%; 
-  gap: 10px;     
+  gap: 10px;   
+  background: transparent;  
    
 }
 .head .links{
@@ -25,6 +27,12 @@ body {
     list-style: none;
     gap: 4vh;
 }
+#logo {
+  width: 100px;
+  height: auto;
+  background-size: cover;
+}
+
 a {
   text-decoration: none;
   color: rgb(14, 11, 11);
