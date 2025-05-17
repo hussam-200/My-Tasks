@@ -15,3 +15,9 @@ It took me between 5 to 6 hours to complete this assignment. I originally expect
 # About page
 ![interface of about](image/about.png)
 
+# life home page 
+![life home page](image/lifehome.png)
+
+# life about page
+![life about page](image/lifeabout.png)
+
