@@ -21,5 +21,5 @@ It took me between 5 to 6 hours to complete this assignment. I originally expect
 ![life home page](image/homepage2.png)
 
 ### life about page
-![life about page](image/lifeabout.png)
+![life about page](image/homepage2.png)
 
